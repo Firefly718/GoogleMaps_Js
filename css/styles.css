@@ -38,3 +38,7 @@ body {
     -webkit-appearance: none;
     -moz-appearance: none;
 }
+
+[hidden] {
+    display: none;
+}
